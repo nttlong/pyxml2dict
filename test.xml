@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf8" ?>
+<root>
+    <NAME value="main"/>
+    <config>
+        <name value="123"/>
+        <ip type="list">
+            <a value="123"/>
+            <a value="123"/>
+            <a value="123"/>
+        </ip>
+    </config>
+</root>
